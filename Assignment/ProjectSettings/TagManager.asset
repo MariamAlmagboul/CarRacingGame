@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawn_Point
+  - Barrier
+  - Finish_Point
+  - Lifting
+  - Hurdle
+  - bomb
+  - hurdl
+  - round
+  - base_spike
+  - fan_anim
+  - ray
+  - stoper
+  - animationtrigger
+  - mine
+  - notaggiven
+  - Animator_camera
+  - VehicleBody
+  - FinishBig
+  - HurdleBig
+  - FinishBig_1
+  - Animator_camera_1
+  - Finish_Points
+  - Directions
+  - Effects
+  - downcam
+  - lapactive
+  - lapcomplete
+  - lapactive1
+  - lapactive2
+  - lapactive3
+  - lapcomplete1
+  - lapcomplete2
+  - lapcomplete3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ShadowCaster
+  - ShadowReceives
+  - cars
+  - stars
+  - complete
+  - directions
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
